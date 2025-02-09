@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TowertexErste</string>
+    <string name="unknown">unknown</string>
+
+    <!--AccountCard-->
+    <string name="ac_name">Transparent account = %s</string>
+
+    <!--AccountDetail-->
+    <string name="ad_name">Account name is %s (%s)</string>
+    <string name="ad_number">Account number is %s / %s (IBAN: %s)</string>
+    <string name="ad_note">Note: %s and Date: %s</string>
+    <string name="ad_balance">Account balance is %s in %s</string>
+    <string name="ad_dates">Account was published to %s and is transparent from %s to %s</string>
+    <string name="ad_statements">There are following statements attached: </string>
+</resources>
